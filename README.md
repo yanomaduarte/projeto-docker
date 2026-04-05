@@ -24,3 +24,4 @@ Se você tiver o [Docker](https://www.docker.com/) instalado, basta executar um 
 
 ```bash
 docker run yanduartef/meu-hello-devops:v1
+```
